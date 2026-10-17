@@ -77,7 +77,7 @@ To review with GitHub Copilot instead, create a fine-grained personal access tok
 | `github-token` | `github.token` | Token used to post the review. |
 | `claude-code-version` | `2.1.296` | Claude Code CLI version to install. |
 | `copilot-version` | `1.0.95` | GitHub Copilot CLI version to install. |
-| `klaussy-version` | `0.42.1` | [klaussy-agents](https://pypi.org/project/klaussy-agents/) version to install from PyPI. |
+| `klaussy-version` | `0.44.1` | [klaussy-agents](https://pypi.org/project/klaussy-agents/) version to install from PyPI. |
 
 On Opus a review averages about $5 in API usage and can reach $15, which is why `max-budget-usd` defaults to 20.
 
